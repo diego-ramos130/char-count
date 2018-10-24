@@ -1,4 +1,4 @@
-# Code Challenge 32(?) - Count The Characters
+# Code Challenge 32(?) - Count The Characters [![Build Status](https://travis-ci.org/diego-ramos130/heroku-demo.svg?branch=master)](https://travis-ci.org/diego-ramos130/heroku-demo)
 ![picture](./src/assets/20181024_142812.jpg)
 ## Overview
 Given a string, return a data structure that has both the corresponding letter and the amount of times that letter is used.
